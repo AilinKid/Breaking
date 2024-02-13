@@ -12,3 +12,4 @@
 
 5: compute a logical span on them. 构建逻辑 span 的跨度，这里可以用来指代 range.
 
+6: colocate the common userid's data into some tikv node across different table. 横跨不同表构建相同 userid 的数据并置
