@@ -21,3 +21,6 @@
 "the establishment of an independent government" 要们是建立的动作
 2. a business organization, public institution, or household.
 "hotels or catering establishments" 要么是建立的机构
+
+9: brick and mortar （砖块和灰泥）指代传统街头上 face to face 的商店
+brick and mortar stores/establishment 传统商店
