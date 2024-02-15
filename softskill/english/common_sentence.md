@@ -31,3 +31,6 @@ brick and mortar stores/establishment 传统商店
 12: traditional store risk (doing) losing their customers to online shopping. 冒着失去顾客给新零售的风险
 
 13: your response is well-structured and provide good points. 你的答案有些点子而且结构合理
+
+14: article 文章，冠词
+1. add an article before "most advantage" to make it grammatically correct.
