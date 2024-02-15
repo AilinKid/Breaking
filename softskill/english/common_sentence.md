@@ -26,3 +26,5 @@
 brick and mortar stores/establishment 传统商店
 
 10: play a significant/important role in sth 扮演重要角色
+
+11: express your uncertainty about sth in a clear manner 阐述你的不确定
