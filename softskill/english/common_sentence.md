@@ -34,3 +34,7 @@ brick and mortar stores/establishment 传统商店
 
 14: article 文章，冠词
 1. add an article before "most advantage" to make it grammatically correct.
+
+15: clarify 简明阐述，提纯
+1. make (a statement or situation) less confused and more comprehensible
+2. melt (butter) in order to separate out the water and milk solids.
