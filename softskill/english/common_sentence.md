@@ -38,3 +38,6 @@ brick and mortar stores/establishment 传统商店
 15: clarify 简明阐述，提纯
 1. make (a statement or situation) less confused and more comprehensible
 2. melt (butter) in order to separate out the water and milk solids.
+
+
+16: consider (doing) expanding the last after-sales service aspect()
