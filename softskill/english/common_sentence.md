@@ -45,3 +45,9 @@ brick and mortar stores/establishment 传统商店
 * "consider (doing) expanding the last after-sales service aspect"
 2. the positioning of a building or other structure in a particular direction.
 * "a greenhouse with a southern aspect" 具有朝南方位的温室
+
+17: though /ðəʊ/
+1. conjunction; despite the fact that; although.
+* "though they were speaking in undertones, Percival could hear them" （连词，只能用于句首，表示 although）
+2. adverb; however (indicating that a factor qualifies or imposes restrictions on what was said previously).
+* "I was hunting for work. Jobs were scarce though" (副词的位置出现比较随意，句中句尾都可以)
