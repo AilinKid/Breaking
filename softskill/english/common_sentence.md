@@ -39,5 +39,9 @@ brick and mortar stores/establishment 传统商店
 1. make (a statement or situation) less confused and more comprehensible
 2. melt (butter) in order to separate out the water and milk solids.
 
-
-16: consider (doing) expanding the last after-sales service aspect()
+16: aspect 方面，方位
+1. a particular part or feature of something.
+* "personal effectiveness in all aspects of life"
+* "consider (doing) expanding the last after-sales service aspect"
+2. the positioning of a building or other structure in a particular direction.
+* "a greenhouse with a southern aspect" 具有朝南方位的温室
